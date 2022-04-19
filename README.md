@@ -24,7 +24,11 @@
 
 
 # 6주차 과제 
+-이미지 바꾸기 버튼 
 <img width="" height="" src="./pic/6주차_1.jpg"></img>
+
 <img width="" height="" src="./pic/6주차_2.jpg"></img>
+-width
 <img width="" height="" src="./pic/6주차_버튼1.jpg"></img>
+-height
 <img width="" height="" src="./pic/6주차_버튼2.jpg"></img>
