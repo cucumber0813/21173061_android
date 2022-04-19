@@ -24,7 +24,7 @@
 
 
 # 6주차 과제 
-<img width="" height="" src="./pic/6주차_1.png"></img>
-<img width="" height="" src="./pic/6주차_2.png"></img>
+<img width="" height="" src="./pic/6주차_1.jpg"></img>
+<img width="" height="" src="./pic/6주차_2.jpg"></img>
 <img width="" height="" src="./pic/6주차_버튼1.jpg"></img>
 <img width="" height="" src="./pic/6주차_버튼2.jpg"></img>
