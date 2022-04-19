@@ -21,3 +21,10 @@
 <img width="" height="" src="./pic/5주차_안드로이드2.png"></img>
 <img width="" height="" src="./pic/5주차_안드로이드3.png"></img>
 <img width="" height="" src="./pic/5주차_안드로이드4.png"></img>
+
+
+# 6주차 과제 
+<img width="" height="" src="./pic/6주차_1.png"></img>
+<img width="" height="" src="./pic/6주차_2.png"></img>
+<img width="" height="" src="./pic/6주차_버튼1.jpg"></img>
+<img width="" height="" src="./pic/6주차_버튼2.jpg"></img>
