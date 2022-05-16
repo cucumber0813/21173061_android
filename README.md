@@ -39,4 +39,4 @@
 <img width="" height="" src="./pic/10week_2.png"></img>
 <img width="" height="" src="./pic/10week_3.png"></img>
 <img width="" height="" src="./pic/s1.png"></img>
-<img width="" height="" src="./pic/s2_3.png"></img>
+<img width="" height="" src="./pic/s2.png"></img>
